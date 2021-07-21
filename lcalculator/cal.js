@@ -26,13 +26,13 @@ else if (add2>25 && add2<=50)
 {
     document.querySelector(".result").innerHTML="NOT ENOUGH LOVE ,YOU GUYS STILL NEED TO LOVE MORE";
     document.querySelector(".result").style.backgroundColor="yellow";
-    document.querySelector(".img2").src="lcalculator/panda.gif"
+    document.querySelector(".img2").src="panda.gif"
 }
 else if (add2>50 && add2<=75)
 {
     document.querySelector(".result").innerHTML="MADE FOR EACH OTHER";
     document.querySelector(".result").style.backgroundColor="#ccff99";
-    document.querySelector(".img2").src="lcalculator/dance.gif";
+    document.querySelector(".img2").src="dance.gif";
 
 }
 else if (add2>75 && add2>=100)
